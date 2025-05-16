@@ -1,0 +1,219 @@
+---
+title: "LJMU Academic Achievement Data Summer School"
+subtitle: "2025 edition"
+format: html
+toc: true
+number-sections: false
+title-block-banner: true
+---
+
+Every year LJMU's [Academic Achievement Team](https://www.ljmu.ac.uk/library/students/academic-skills) runs a data summer school to help students and staff improve their data analysis knowledge and skills. This year's will run from the end of June to the end of July.
+
+Further information on all the classes, including relevant links, powerpoints, and associated resources can be found on the [Maths & Stats Canvas course](https://canvas.ljmu.ac.uk/courses/25501). (You may need to use [this link](https://canvas.ljmu.ac.uk/enroll/W4LMJ4) to enrol on it.)
+
+# Schedule
+
+| Day | Date | Time | Session | Location |
+|---------------|---------------|---------------|---------------|---------------|
+| Friday | 27/06/2025 | 3pm-4.30pm | [Using AI to help quantitative research](#using-ai-to-help-quantitative-research) | Online |
+| Monday | 30/06/2025 | 10am-4pm | [Introduction to using NVivo for qualitative data analysis](#introduction-to-using-nvivo-for-qualitative-data-analysis) | HC/209 |
+| Tuesday | 01/07/2025 | 10am-4pm | [Exploring and visualising data using R](#exploring-and-visualising-data-using-r) | BS/106 |
+| Thursday | 03/07/2025 | 10am-4pm | [Understanding statistics and analysing data using R](#understanding-statistics-and-analysing-data-using-r) | BS/106 |
+| Friday | 04/07/2025 | 10am-4pm | [Further statistics with R](#further-statistics-with-r) | BS/106 |
+| Tuesday | 08/07/2025 | 10am-4pm | [Exploring and visualising data using SPSS](#exploring-and-visualising-data-using-spss) | JF/IT Suite C |
+| Thursday | 10/07/2025 | 10am-4pm | [First steps in analysing data using SPSS](#first-steps-in-analysing-data-using-spss) | JF/IT Suite C |
+| Friday | 11/07/2025 | 10am-4pm | [Next steps in analysing data using SPSS](#next-steps-in-analysing-data-using-spss) | JF/IT Suite C |
+| Thursday | 17/07/2025 | 1pm-2.30pm | [Saving time and effort in Word](#saving-time-and-effort-in-word) | Online |
+| Thursday | 17/07/2025 | 3pm-4.30pm | [How to write up quantitative results](#how-to-write-up-quantitative-results) | Online |
+| Tuesday | 22/07/2025 | 10am-4pm | [First steps in Python](#first-steps-in-python) | JF/IT Suite C |
+| Thursday | 24/07/2025 | 10am-4pm | [Next steps in Python](#next-steps-in-python) | JF/IT Suite C |
+
+# Session Information
+
+## Using AI to help quantitative research {#using-ai-to-help-quantitative-research}
+
+AI is an exciting new tool which can be used to help with your research. This session will explore ways in which it may be able to help you with planning your research, conducting analysis and understanding the results. Please note that you should check with your module leader or supervisor as to how much (if at all) you are permitted to use AI, and how you should acknowledge its use.
+
+This class will be delivered on Teams.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=c3224941-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## Introduction to using NVivo for qualitative data analysis {#introduction-to-using-nvivo-for-qualitative-data-analysis}
+
+In qualitative research your data are words, pictures, audio or video, rather than the numbers used in quantitative research. NVivo is a program which helps researchers to organise their sources, and help with the coding and analysis of the data. This one day workshop will provide an introduction to NVivo and using it to do thematic analysis. Topics covered during the day will include
+
+-   Tour of NVivo and its capabilities
+
+-   Getting data into NVivo
+
+-   Coding, querying and visualising your data
+
+-   Using NVivo to help with thematic analysis
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=19ec6693-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## Exploring and visualising data using R {#exploring-and-visualising-data-using-r}
+
+This full day session will start from no knowledge at all of R and take you through the process of using R to explore data in tabular and graphical form Content will include:
+
+-   An introduction to R and RStudio
+
+-   Importing data into R
+
+-   Tidying data
+
+-   Exploring data with summaries and graphs
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=51eebfbe-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## Understanding statistics and analysing data using R {#understanding-statistics-and-analysing-data-using-r}
+
+In this full day workshop we will look at how to do inferential statistics and data analysis using R. Starting from a basic knowledge of R, at the level of the “Exploring and visualising data using R” workshop, we will explore statistical concepts and analyse data using a combination of simulated and real data. Content will include:
+
+-   Further visualisations
+
+-   Exploring statistical distributions
+
+-   Generating test data
+
+-   Simple tests such as t-tests, correlation and χ2 tests
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=344c20e6-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## Further statistics with R {#further-statistics-with-r}
+
+In this full day workshop we will look at further inferential statistics and data analysis using R. This session will build upon the foundations laid in “Understanding statistics and analysing data using R” Content will include:
+
+-   ANOVA
+
+-   Linear regression
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=73089814-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## Exploring and visualising data using SPSS {#exploring-and-visualising-data-using-spss}
+
+This full day session will start from no knowledge at all of SPSS and take you through the process of using SPSS to import, tidy and explore your data using tables and visualisations. Content will include:
+
+-   Importing data into SPSS
+
+-   Tidying your data
+
+-   Exploring data with summary tables
+
+-   Formatting summary tables in SPSS and Excel
+
+-   Examining your data graphically
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=1fe5224b-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## First steps in analysing data using SPSS {#first-steps-in-analysing-data-using-spss}
+
+This full day session will start from a basic knowledge of SPSS and take you through the most some of the most common analyses:
+
+-   Choosing a test
+
+-   Testing assumptions
+
+-   Common tests such as χ2, correlations, t-tests, and associated non-parametric tests
+
+-   How to write up test results
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=48635676-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+## Next steps in analysing data using SPSS {#next-steps-in-analysing-data-using-spss}
+
+This full day session will start from a basic knowledge of SPSS and take you through some more tests:
+
+-   Choosing a test
+
+-   Testing assumptions
+
+-   Multivariate tests such as ANOVA, regression and associated non-parametric tests
+
+-   How to write up test results
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=53b1aaa5-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+## Saving time and effort in Word {#saving-time-and-effort-in-word}
+
+Word has many features which can save you time and effort, and can help you to avoid some common mistakes. Some of the things this session will cover are:
+
+-   Using styles in Word to automatically format headings, and number them if required
+
+-   Creating tables of contents, figures and tables
+
+-   Adding captions to figures and tables Handy hints
+
+This class will be delivered on Teams.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=b79cade3-4132-f011-bf44-005056ab333c)
+
+## How to write up quantitative results {#how-to-write-up-quantitative-results}
+
+You’ve come up with your research question, created hypotheses, collected data, and fought valiant battles with statistical software. Now you have a whole load of numbers in front of you and you’re thinking “what on Earth do I write?” If this describes you, then this session may help. We will go over the American Psychological Association (APA) guidelines for writing up quantitative research, followed by examining research papers and exploring how they present their results.
+
+This class will be delivered on Teams.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=a286432c-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## First steps in Python {#first-steps-in-python}
+
+Python is currently one of the most popular programming languages, and is used in many different fields, such as physics and engineering, data science and web development. This full day session is a introduction to Python. The workshop will use of Jupyter notebooks as a development and presentation environment, although you are welcome to use other Python development environments if you prefer. Content will include:
+
+-   The use of Jupyter notebooks
+
+-   Python syntax and data structures
+
+-   Branching, looping and creating functions
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=752fbd55-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------
+
+## Next steps in Python {#next-steps-in-python}
+
+Python has an extensive range of libraries available. This workshop will look at some of the libraries which are most used in scientific work. Content will include:
+
+-   Numerical computing with Numpy
+
+-   Visualising data with Matplotlib
+
+-   Data handling with Pandas
+
+-   Scientific computing with Scipy (if time)
+
+The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
+
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=a3354484-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+
+------------------------------------------------------------------------

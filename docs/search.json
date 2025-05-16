@@ -1,0 +1,93 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "",
+    "text": "Every year LJMU’s Academic Achievement Team runs a data summer school to help students and staff improve their data analysis knowledge and skills. This year’s will run from the end of June to the end of July.\nFurther information on all the classes, including relevant links, powerpoints, and associated resources can be found on the Maths & Stats Canvas course. (You may need to use this link to enrol on it.)"
+  },
+  {
+    "objectID": "index.html#using-ai-to-help-quantitative-research",
+    "href": "index.html#using-ai-to-help-quantitative-research",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Using AI to help quantitative research",
+    "text": "Using AI to help quantitative research\nAI is an exciting new tool which can be used to help with your research. This session will explore ways in which it may be able to help you with planning your research, conducting analysis and understanding the results. Please note that you should check with your module leader or supervisor as to how much (if at all) you are permitted to use AI, and how you should acknowledge its use.\nThis class will be delivered on Teams.\nBook here"
+  },
+  {
+    "objectID": "index.html#introduction-to-using-nvivo-for-qualitative-data-analysis",
+    "href": "index.html#introduction-to-using-nvivo-for-qualitative-data-analysis",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Introduction to using NVivo for qualitative data analysis",
+    "text": "Introduction to using NVivo for qualitative data analysis\nIn qualitative research your data are words, pictures, audio or video, rather than the numbers used in quantitative research. NVivo is a program which helps researchers to organise their sources, and help with the coding and analysis of the data. This one day workshop will provide an introduction to NVivo and using it to do thematic analysis. Topics covered during the day will include\n\nTour of NVivo and its capabilities\nGetting data into NVivo\nCoding, querying and visualising your data\nUsing NVivo to help with thematic analysis\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#exploring-and-visualising-data-using-r",
+    "href": "index.html#exploring-and-visualising-data-using-r",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Exploring and visualising data using R",
+    "text": "Exploring and visualising data using R\nThis full day session will start from no knowledge at all of R and take you through the process of using R to explore data in tabular and graphical form Content will include:\n\nAn introduction to R and RStudio\nImporting data into R\nTidying data\nExploring data with summaries and graphs\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#understanding-statistics-and-analysing-data-using-r",
+    "href": "index.html#understanding-statistics-and-analysing-data-using-r",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Understanding statistics and analysing data using R",
+    "text": "Understanding statistics and analysing data using R\nIn this full day workshop we will look at how to do inferential statistics and data analysis using R. Starting from a basic knowledge of R, at the level of the “Exploring and visualising data using R” workshop, we will explore statistical concepts and analyse data using a combination of simulated and real data. Content will include:\n\nFurther visualisations\nExploring statistical distributions\nGenerating test data\nSimple tests such as t-tests, correlation and χ2 tests\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#further-statistics-with-r",
+    "href": "index.html#further-statistics-with-r",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Further statistics with R",
+    "text": "Further statistics with R\nIn this full day workshop we will look at further inferential statistics and data analysis using R. This session will build upon the foundations laid in “Understanding statistics and analysing data using R” Content will include:\n\nANOVA\nLinear regression\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#exploring-and-visualising-data-using-spss",
+    "href": "index.html#exploring-and-visualising-data-using-spss",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Exploring and visualising data using SPSS",
+    "text": "Exploring and visualising data using SPSS\nThis full day session will start from no knowledge at all of SPSS and take you through the process of using SPSS to import, tidy and explore your data using tables and visualisations. Content will include:\n\nImporting data into SPSS\nTidying your data\nExploring data with summary tables\nFormatting summary tables in SPSS and Excel\nExamining your data graphically\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#first-steps-in-analysing-data-using-spss",
+    "href": "index.html#first-steps-in-analysing-data-using-spss",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "First steps in analysing data using SPSS",
+    "text": "First steps in analysing data using SPSS\nThis full day session will start from a basic knowledge of SPSS and take you through the most some of the most common analyses:\n\nChoosing a test\nTesting assumptions\nCommon tests such as χ2, correlations, t-tests, and associated non-parametric tests\nHow to write up test results\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#next-steps-in-analysing-data-using-spss",
+    "href": "index.html#next-steps-in-analysing-data-using-spss",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Next steps in analysing data using SPSS",
+    "text": "Next steps in analysing data using SPSS\nThis full day session will start from a basic knowledge of SPSS and take you through some more tests:\n\nChoosing a test\nTesting assumptions\nMultivariate tests such as ANOVA, regression and associated non-parametric tests\nHow to write up test results\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#saving-time-and-effort-in-word",
+    "href": "index.html#saving-time-and-effort-in-word",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Saving time and effort in Word",
+    "text": "Saving time and effort in Word\nWord has many features which can save you time and effort, and can help you to avoid some common mistakes. Some of the things this session will cover are:\n\nUsing styles in Word to automatically format headings, and number them if required\nCreating tables of contents, figures and tables\nAdding captions to figures and tables Handy hints\n\nThis class will be delivered on Teams.\nBook here"
+  },
+  {
+    "objectID": "index.html#how-to-write-up-quantitative-results",
+    "href": "index.html#how-to-write-up-quantitative-results",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "How to write up quantitative results",
+    "text": "How to write up quantitative results\nYou’ve come up with your research question, created hypotheses, collected data, and fought valiant battles with statistical software. Now you have a whole load of numbers in front of you and you’re thinking “what on Earth do I write?” If this describes you, then this session may help. We will go over the American Psychological Association (APA) guidelines for writing up quantitative research, followed by examining research papers and exploring how they present their results.\nThis class will be delivered on Teams.\nBook here"
+  },
+  {
+    "objectID": "index.html#first-steps-in-python",
+    "href": "index.html#first-steps-in-python",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "First steps in Python",
+    "text": "First steps in Python\nPython is currently one of the most popular programming languages, and is used in many different fields, such as physics and engineering, data science and web development. This full day session is a introduction to Python. The workshop will use of Jupyter notebooks as a development and presentation environment, although you are welcome to use other Python development environments if you prefer. Content will include:\n\nThe use of Jupyter notebooks\nPython syntax and data structures\nBranching, looping and creating functions\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  },
+  {
+    "objectID": "index.html#next-steps-in-python",
+    "href": "index.html#next-steps-in-python",
+    "title": "LJMU Academic Achievement Data Summer School",
+    "section": "Next steps in Python",
+    "text": "Next steps in Python\nPython has an extensive range of libraries available. This workshop will look at some of the libraries which are most used in scientific work. Content will include:\n\nNumerical computing with Numpy\nVisualising data with Matplotlib\nData handling with Pandas\nScientific computing with Scipy (if time)\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+  }
+]

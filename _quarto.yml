@@ -1,0 +1,22 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+#  title: "Data-Summer-School-2025"
+  navbar:
+    left:
+      - href: https://www.ljmu.ac.uk/library/students/academic-skills
+        text: Academic Achievement Team
+      - text: '|'
+      - href: https://unical.ljmu.ac.uk/?team=AA&format=class&subject=Maths%20and%20Statistics
+        text: Class Calendar
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
