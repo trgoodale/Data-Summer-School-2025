@@ -36,7 +36,7 @@ AI is an exciting new tool which can be used to help with your research. This se
 
 This class will be delivered on Teams.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=c3224941-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=c3224941-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
@@ -54,13 +54,15 @@ In qualitative research your data are words, pictures, audio or video, rather th
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=19ec6693-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=19ec6693-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
 ## Exploring and visualising data using R {#exploring-and-visualising-data-using-r}
 
-This full day session will start from no knowledge at all of R and take you through the process of using R to explore data in tabular and graphical form Content will include:
+This full day session will start from no knowledge at all of R and take you through the process of using R to explore data in tabular and graphical form.
+
+Content will include:
 
 -   An introduction to R and RStudio
 
@@ -72,13 +74,15 @@ This full day session will start from no knowledge at all of R and take you thro
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=51eebfbe-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=51eebfbe-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
 ## Understanding statistics and analysing data using R {#understanding-statistics-and-analysing-data-using-r}
 
-In this full day workshop we will look at how to do inferential statistics and data analysis using R. Starting from a basic knowledge of R, at the level of the “Exploring and visualising data using R” workshop, we will explore statistical concepts and analyse data using a combination of simulated and real data. Content will include:
+In this full day workshop we will look at how to do inferential statistics and data analysis using R. Starting from a basic knowledge of R, at the level of the “Exploring and visualising data using R” workshop, we will explore statistical concepts and analyse data using a combination of simulated and real data.
+
+Content will include:
 
 -   Further visualisations
 
@@ -90,13 +94,15 @@ In this full day workshop we will look at how to do inferential statistics and d
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=344c20e6-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=344c20e6-4032-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
 ## Further statistics with R {#further-statistics-with-r}
 
-In this full day workshop we will look at further inferential statistics and data analysis using R. This session will build upon the foundations laid in “Understanding statistics and analysing data using R” Content will include:
+In this full day workshop we will look at further inferential statistics and data analysis using R. This session will build upon the foundations laid in “Understanding statistics and analysing data using R.”
+
+Content will include:
 
 -   ANOVA
 
@@ -104,13 +110,15 @@ In this full day workshop we will look at further inferential statistics and dat
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=73089814-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=73089814-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
 ## Exploring and visualising data using SPSS {#exploring-and-visualising-data-using-spss}
 
-This full day session will start from no knowledge at all of SPSS and take you through the process of using SPSS to import, tidy and explore your data using tables and visualisations. Content will include:
+This full day session will start from no knowledge at all of SPSS and take you through the process of using SPSS to import, tidy and explore your data using tables and visualisations.
+
+Content will include:
 
 -   Importing data into SPSS
 
@@ -124,13 +132,15 @@ This full day session will start from no knowledge at all of SPSS and take you t
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=1fe5224b-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=1fe5224b-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
 ## First steps in analysing data using SPSS {#first-steps-in-analysing-data-using-spss}
 
-This full day session will start from a basic knowledge of SPSS and take you through the most some of the most common analyses:
+This full day session will start from a basic knowledge of SPSS and take you through the most some of the most common analyses.
+
+Content will include:
 
 -   Choosing a test
 
@@ -142,11 +152,13 @@ This full day session will start from a basic knowledge of SPSS and take you thr
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=48635676-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=48635676-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ## Next steps in analysing data using SPSS {#next-steps-in-analysing-data-using-spss}
 
-This full day session will start from a basic knowledge of SPSS and take you through some more tests:
+This full day session will start from a basic knowledge of SPSS and take you through some more tests.
+
+Content will include:
 
 -   Choosing a test
 
@@ -158,7 +170,7 @@ This full day session will start from a basic knowledge of SPSS and take you thr
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=53b1aaa5-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=53b1aaa5-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ## Saving time and effort in Word {#saving-time-and-effort-in-word}
 
@@ -172,7 +184,7 @@ Word has many features which can save you time and effort, and can help you to a
 
 This class will be delivered on Teams.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=b79cade3-4132-f011-bf44-005056ab333c)
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=b79cade3-4132-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ## How to write up quantitative results {#how-to-write-up-quantitative-results}
 
@@ -180,7 +192,7 @@ You’ve come up with your research question, created hypotheses, collected data
 
 This class will be delivered on Teams.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=a286432c-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=a286432c-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
@@ -196,7 +208,7 @@ Python is currently one of the most popular programming languages, and is used i
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=752fbd55-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=752fbd55-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------
 
@@ -210,10 +222,10 @@ Python has an extensive range of libraries available. This workshop will look at
 
 -   Data handling with Pandas
 
--   Scientific computing with Scipy (if time)
+-   Scientific computing with SciPy (if time)
 
 The day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.
 
-[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=a3354484-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical"}
+[Book here](http://unical.ljmu.ac.uk/Event.aspx?EventID=a3354484-4232-f011-bf44-005056ab333c){.btn .btn-outline-primary .btn role="button" data-toggle="tooltip" title="Book on unical" target="_blank"}
 
 ------------------------------------------------------------------------

@@ -88,6 +88,6 @@
     "href": "index.html#next-steps-in-python",
     "title": "LJMU Academic Achievement Data Summer School",
     "section": "Next steps in Python",
-    "text": "Next steps in Python\nPython has an extensive range of libraries available. This workshop will look at some of the libraries which are most used in scientific work. Content will include:\n\nNumerical computing with Numpy\nVisualising data with Matplotlib\nData handling with Pandas\nScientific computing with Scipy (if time)\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
+    "text": "Next steps in Python\nPython has an extensive range of libraries available. This workshop will look at some of the libraries which are most used in scientific work. Content will include:\n\nNumerical computing with Numpy\nVisualising data with Matplotlib\nData handling with Pandas\nScientific computing with SciPy (if time)\n\nThe day will run from 10am to 4pm with morning and afternoon breaks, and an hour for lunch.\nBook here"
   }
 ]
